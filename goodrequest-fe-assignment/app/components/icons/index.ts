@@ -1,0 +1,10 @@
+export { ArrowLongRightIcon } from "./ArrowLongRightIcon";
+export { ArrowRightIcon } from "./ArrowRightIcon";
+export { ChevronRightIcon } from "./ChevronRightIcon";
+export { EmailIcon } from "./EmailIcon";
+export { EuroIcon } from "./EuroIcon";
+export { FbIcon } from "./FbIcon";
+export { IgIcon } from "./IgIcon";
+export { LoadingIcon } from "./LoadingIcon";
+export { MarkerIcon } from "./MarkerIcon";
+export { PhoneIcon } from "./PhoneIcon";
